@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\d3d12book\\MyD3D12Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2722F817-732E-4B40-8DD5-DAF97361307E}|MyD3D12Project.vcxproj|H:\\d3d12book\\Chapter 6 Drawing in Direct3D\\Box\\BoxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoxApp.cpp",
+              "DocumentMoniker": "H:\\d3d12book\\Chapter 6 Drawing in Direct3D\\Box\\BoxApp.cpp",
+              "RelativeDocumentMoniker": "..\\Chapter 6 Drawing in Direct3D\\Box\\BoxApp.cpp",
+              "ToolTip": "H:\\d3d12book\\Chapter 6 Drawing in Direct3D\\Box\\BoxApp.cpp",
+              "RelativeToolTip": "..\\Chapter 6 Drawing in Direct3D\\Box\\BoxApp.cpp",
+              "ViewState": "AgIAALEAAAAAAAAAAAAqwMYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T11:22:17.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{508E9197-885A-4954-B5DD-B528CE27E803}|XMVECTOR.vcxproj|H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\xmvec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{508E9197-885A-4954-B5DD-B528CE27E803}|XMVECTOR.vcxproj|solutionrelative:xmvec3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508E9197-885A-4954-B5DD-B528CE27E803}|XMVECTOR.vcxproj|H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\VectorOps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{508E9197-885A-4954-B5DD-B528CE27E803}|XMVECTOR.vcxproj|solutionrelative:VectorOps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508E9197-885A-4954-B5DD-B528CE27E803}|XMVECTOR.vcxproj|H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\tol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{508E9197-885A-4954-B5DD-B528CE27E803}|XMVECTOR.vcxproj|solutionrelative:tol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508E9197-885A-4954-B5DD-B528CE27E803}|XMVECTOR.vcxproj|H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\InitFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{508E9197-885A-4954-B5DD-B528CE27E803}|XMVECTOR.vcxproj|solutionrelative:InitFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "xmvec3.cpp",
+              "DocumentMoniker": "H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\xmvec3.cpp",
+              "RelativeDocumentMoniker": "xmvec3.cpp",
+              "ToolTip": "H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\xmvec3.cpp",
+              "RelativeToolTip": "xmvec3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T08:57:27.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VectorOps.cpp",
+              "DocumentMoniker": "H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\VectorOps.cpp",
+              "RelativeDocumentMoniker": "VectorOps.cpp",
+              "ToolTip": "H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\VectorOps.cpp",
+              "RelativeToolTip": "VectorOps.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T08:57:25.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tol.cpp",
+              "DocumentMoniker": "H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\tol.cpp",
+              "RelativeDocumentMoniker": "tol.cpp",
+              "ToolTip": "H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\tol.cpp",
+              "RelativeToolTip": "tol.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T08:57:24.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InitFunctions.cpp",
+              "DocumentMoniker": "H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\InitFunctions.cpp",
+              "RelativeDocumentMoniker": "InitFunctions.cpp",
+              "ToolTip": "H:\\d3d12book\\Chapter 1 Vector Algebra\\XMVECTOR\\InitFunctions.cpp",
+              "RelativeToolTip": "InitFunctions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T08:57:23.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
